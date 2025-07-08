@@ -15,6 +15,12 @@ I personally use it at work for fast conversions of a specific internal spreadsh
 
 ---
 
+## 🖼️ Screenshot
+
+![GUI Preview](screen.png)
+
+---
+
 ## 🚀 Features
 
 - Reads multiple Excel sheets from a single file
@@ -33,10 +39,12 @@ I personally use it at work for fast conversions of a specific internal spreadsh
 ```
 X2CImporter/
 ├── X2CImporter_GUI.py       # GUI version of the tool
+├── python_base.py           # Terminal-based CLI script
 ├── _internal/               # Contains icons and other static assets
 │   └── icons/
 │       ├── xlsx_icon.png
 │       └── csv_icon.png
+├── screen.png               # Screenshot of the application
 ├── requirements.txt         # Required Python packages
 └── README.md
 ```
@@ -78,10 +86,16 @@ This installs:
 
 ## ▶️ Running the Program
 
-Start the GUI version:
+### GUI version
 
 ```bash
 python X2CImporter_GUI.py
+```
+
+### Terminal version
+
+```bash
+python python_base.py
 ```
 
 ---
@@ -102,8 +116,8 @@ You can build a standalone Windows executable using [`auto-py-to-exe`](https://g
 
 ## 📝 License & Credits
 
-This project is released for educational and internal-use purposes.  
-No warranty provided.  
+This project is released under the [MIT License](LICENSE).  
+Use freely, modify as needed. No warranty provided.  
 © Tomas Salaj, 2024
 
 ---
