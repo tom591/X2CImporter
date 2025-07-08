@@ -10,6 +10,9 @@ It supports multiple sheets, selected columns, and adds row numbers to all rows 
 
 Includes a simple GUI (Tkinter) for selecting and converting files without writing code.
 
+This tool is intentionally very simple – but for basic purposes, such as converting `.xlsx` tables into `.csv` for database import, it works well.  
+I personally use it at work for fast conversions of a specific internal spreadsheet.
+
 ---
 
 ## 🚀 Features
