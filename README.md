@@ -1,6 +1,9 @@
 # 📊 X2CImporter | XLSX → CSV Converter (with optional GUI)
 by Tomas Salaj
 
+![Python](https://img.shields.io/badge/python-3.11-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 ---
 
 ## 🧩 Overview
