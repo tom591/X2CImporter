@@ -1,8 +1,8 @@
 # 📊 X2CImporter | XLSX → CSV Converter (with optional GUI)
 by Tom Salaj
 
-![Python](https://img.shields.io/badge/python-3.11-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+[![Python](https://img.shields.io/badge/python-3.11-blue)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/tom591/X2CImporter?tab=MIT-1-ov-file)
 
 ---
 
