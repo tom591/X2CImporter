@@ -120,7 +120,13 @@ You can build a standalone Windows executable using [`auto-py-to-exe`](https://g
 ## 📝 License & Credits
 
 This project is released under the [MIT License](LICENSE).  
-Use freely, modify as needed. No warranty provided.  
-© Tomas Salaj, 2024
+Use freely, modify as needed. No warranty provided.
 
+---
+
+## 🚀 Final Words
+Learn, code, enjoy — good luck!
+Tom Salaj
+
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Podpoř%20mě&emoji=☕&slug=tvujprofil&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/tomsalaj)
 ---
