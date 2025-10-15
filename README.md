@@ -6,7 +6,7 @@ by Tom Salaj
 
 ---
 
-## 🧩 Overview
+## 🧰 What is it?
 
 **X2CImporter** is a Python utility for converting Excel spreadsheets (`.xlsx`) into a unified `.csv` file.  
 It supports multiple sheets, selected columns, and adds row numbers to all rows for later database import (e.g. into MySQL).
